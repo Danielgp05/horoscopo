@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Ribeye+Marrow&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Ribeye+Marrow&display=swap");
+
+body{
+    background-color: hwb(212 73% 7%);
+    font-family: sans-serif;
+    font-size: 1.25rem;
+}
+
+.cuerpo{
+    margin-left:180px;
+    margin-right:180px;
+    margin-bottom:120px;
+}
+p{
+    font-family: "Lobster";
+}
+.borde{
+  padding: 20px 20px;
+  padding-right: 50px;
+  border: black 5px solid;
+  border-radius: 20px;
+  background-color: white;
+}
+
+hr{
+    height: 5px;
+    background-color: black;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 120px;
+}
+
+h1{
+    font-family: "Ribeye Marrow";
+    text-align: center;
+    margin: 100px;
+}
+
+h2{
+    padding-left: 10px;
+    font-family: "Lobster";
+}
+.izquierda{
+    float:left;
+    margin-right: 20px;
+    margin-left: 20px;
+    width: 250px;
+}
+
+.derecha{
+
+    float:right;
+    margin-right: 80px;
+    margin-left: 20px;
+    width: 250px;
+    padding-left: 50px;
+}
+
+ul{
+    margin-left:300px;
+    font-family: "Lobster";
+}
+
+.listaderecha{
+    margin-right: 300px;
+}
+
+.textoderecha{
+   margin-left: 100px;
+}
+
+address{
+    text-align: center;
+    font-family: "Lobster";
+}
